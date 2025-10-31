@@ -73,8 +73,8 @@ A modern, full-stack video conferencing application built with Next.js, TypeScri
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/video-calling-app-nextjs.git
-   cd video-calling-app-nextjs
+   https://github.com/theshibaprasad/MeetFlow.git
+   cd MeetFlow
    ```
 
 2. **Install dependencies**
@@ -83,7 +83,7 @@ A modern, full-stack video conferencing application built with Next.js, TypeScri
    ```
 
 3. **Environment Setup**
-   Create a `.env.local` file:
+   Create a `.env` file:
    ```env
    # Database
    MONGODB_URI=mongodb://localhost:27017/videocall
