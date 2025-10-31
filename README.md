@@ -73,7 +73,7 @@ A modern, full-stack video conferencing application built with Next.js, TypeScri
 
 1. **Clone the repository**
    ```bash
-   https://github.com/theshibaprasad/MeetFlow.git
+   git clone https://github.com/theshibaprasad/MeetFlow.git
    cd MeetFlow
    ```
 
